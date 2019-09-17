@@ -9,7 +9,7 @@ const usersRouter = require('./users/usersRouter.js')
 const dbConnection = require('./data/db-config.js')
 
 const sessionConfig = {
-   name: 'chocochip', 
+   name: 'banana', 
      secret:'keep it secrect',
      cookie: {
        maxAge: 1000 * 60 * 60,
